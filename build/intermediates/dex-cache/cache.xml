@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5e84543be379e4b618f3e2964261fd96b3bf0f1b">
+        <dex dex="/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d0dc49bd120ac6242755999d750c9326048ed250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2edd1aee9d661b110945ba7fd860474b493bb0aa">
+        <dex dex="/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7999a31afd226be1395ea0279765f31e72b6cdd4/classes.dex" />
+    </item>
+
+</items>

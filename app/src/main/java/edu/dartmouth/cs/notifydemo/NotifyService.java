@@ -40,14 +40,13 @@ public class NotifyService extends Service {
 		registerReceiver(notifyServiceReceiver, intentFilter);
 		
 		// Send Notification
-		Context context = getApplicationContext();
 		String notificationTitle = "Demo of Notification!";
 		String notificationText = "Course Website";
 		Intent myIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(myBlog));
 		PendingIntent pendingIntent 
 				= PendingIntent.getActivity(getBaseContext(), 
 						0, myIntent, 
-						Intent.FLAG_ACTIVITY_NEW_TASK);
+						PendingIntent.FLAG_ONE_SHOT);
 		
 		
 		
