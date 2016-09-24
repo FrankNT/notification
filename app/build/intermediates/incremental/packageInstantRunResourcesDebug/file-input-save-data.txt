@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Sep 24 15:27:31 ICT 2016
+1.base=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.base=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+0.file=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/res/resources-debug.ap_/resources.arsc

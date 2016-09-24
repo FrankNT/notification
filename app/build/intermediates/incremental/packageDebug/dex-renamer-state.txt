@@ -1,0 +1,7 @@
+#Sat Sep 24 15:27:34 ICT 2016
+base.0=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d0dc49bd120ac6242755999d750c9326048ed250
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7999a31afd226be1395ea0279765f31e72b6cdd4/classes.dex
+base.1=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7999a31afd226be1395ea0279765f31e72b6cdd4
+file.0=/Users/phuc.nguyen/Documents/NotifyDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d0dc49bd120ac6242755999d750c9326048ed250/classes.dex
